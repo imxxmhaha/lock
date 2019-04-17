@@ -1,0 +1,5 @@
+# 配置freemarker
+spring:
+  redis:
+    host: 192.168.170.128
+    port: 6379
